@@ -1,15 +1,30 @@
+# Core Streamlit
 streamlit==1.49.1
 streamlit-webrtc==0.63.4
+
+# Computer Vision
 opencv-python==4.12.0
 mediapipe==0.10.21
+
+# Audio & Voice
 gTTS==2.3.0
 pygame==2.3.1
+
+# WhatsApp & Automation
 pywhatkit==6.2
+pyautogui==0.9.53
+
+# Data handling
 pandas==2.1.1
 numpy==1.26.0
+
+# Emotion Detection
 deepface==0.0.93
-pyautogui==0.9.53
+
+# Translation
 googletrans==4.0.0-rc1
+
+# Logging & Rich UI
 rich==14.1.0
 markdown-it-py==4.0.0
 mdurl==0.1.2
